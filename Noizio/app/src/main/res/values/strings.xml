@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">十日为叶</string>
+    <!--<string name="october_rain">October Rain</string>-->
+    <string name="october_rain">十月的雨</string>
+
+    <!--<string name="coffee_house">Coffee House</string>-->
+    <string name="coffee_house">咖啡屋</string>
+
+    <!--<string name="thenderstorm">Thenderstorm</string>-->
+    <string name="thenderstorm">骤雨雷鸣</string>
+
+    <!--<string name="campfire">Campfire</string>-->
+    <string name="campfire">篝火</string>
+
+    <!--<string name="winter_wind">Winter Wind</string>-->
+    <string name="winter_wind">冬日寒风</string>
+
+    <!--<string name="sea_waves">Sea Waves</string>-->
+    <string name="sea_waves">层层海浪</string>
+
+    <!--<string name="river_stream">River Stream</string>-->
+    <string name="river_stream">小桥流水</string>
+
+    <!--<string name="summer_night">Summer Night</string>-->
+    <string name="summer_night">夏日夜晚</string>
+
+    <!--<string name="sunny_day">Sunny Day</string>-->
+    <string name="sunny_day">深山鸟语</string>
+
+    <!--<string name="deep_space">Deep Space</string>-->
+    <string name="deep_space">深空</string>
+
+    <!--<string name="sailing_yacht">Sailing Yacht</string>-->
+    <string name="sailing_yacht">风帆游艇</string>
+
+    <!--<string name="inside_train">Inside Train</string>-->
+    <string name="inside_train">列车厢</string>
+
+    <!--<string name="on_the_firm">On The Firm</string>-->
+    <string name="on_the_firm">农场</string>
+
+    <!--<string name="wind_chimes">Wind Chimes</string>-->
+    <string name="wind_chimes">风铃钉钉</string>
+
+    <!--<string name="blue_whales">Blue Whales</string>-->
+    <string name="blue_whales">蓝鲸</string>
+</resources>

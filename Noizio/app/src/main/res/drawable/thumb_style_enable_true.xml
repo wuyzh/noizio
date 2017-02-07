@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape>
+            <size
+                android:height="10dp"
+                android:width="3dp" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+    <item android:drawable="@color/colorCursor"/>
+</layer-list>
+    <!--selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:state_focused="true"
+            android:state_pressed="false"
+            android:drawable="@mipmap/slider_btn_pre01" >
+            <shape>
+                <size android:height="5dp"
+                    android:width="5dp"/>
+            </shape>
+        </item>
+        <item
+            android:state_focused="true"
+            android:state_pressed="true"
+            android:drawable="@mipmap/slider_btn_n01" />
+        <item
+            android:state_focused="false"
+            android:state_pressed="true"
+            android:drawable="@mipmap/slider_btn_pre01" />
+        <item
+            android:drawable="@mipmap/slider_btn_n01" />
+    </selector-->
